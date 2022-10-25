@@ -1,5 +1,4 @@
 # CovalentChalleng_FallFestQiskit
-
 Covalent is an open source tool for managing and parallelizing workflows that are hardware
 hybrid and distributed. Quantum support vector machines are inherently embarrassingly parallel algorithms.
 
